@@ -40,7 +40,7 @@ Azure, and Google Cloud Platform (GCP)**.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/MilinManu/Finops_AI.git
+git clone https://github.com/YaassinMD/Finops_AI.git
 cd Finops_AI
 ```
 
